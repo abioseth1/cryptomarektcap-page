@@ -1,6 +1,7 @@
 # Created a crytpo market cap landing page for top 100 coins
 
-<img src = "/coinmarketcap.jpg" >
+https://github.com/abioseth1/cryptomarektcap-page/blob/dev/coinmarketcap.JPG
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
